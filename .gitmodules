@@ -1,0 +1,3 @@
+[submodule "dec2bin"]
+	path = dec2bin
+	url = https://github.com/projectmarc/dec2bin
